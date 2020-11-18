@@ -1,0 +1,3 @@
+1. OPening file
+2. Checking connection..
+3. Introgatting device
